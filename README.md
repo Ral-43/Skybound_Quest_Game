@@ -8,7 +8,7 @@ Skybound Quest é um jogo de plataforma 2D divertido e desafiador, onde o objeti
 ## 🎮 Como Jogar
 - **Movimentação:** Use as teclas **A** e **D** ou as setas direcionais para mover o personagem para a esquerda e para a direita.
 - **Pular:** Pressione a tecla **Espaço** para pular.
-- **Agachar:** Pressione **S** ou a seta para baixo.
+- **Agachar:** Pressione **C** para agachar e **C** novamente para levantar.
 - **Objetivo:** Alcance a casa no topo de cada nível enquanto coleta o máximo de moedas possível.
 - **Evite Espinhos:** Os espinhos causam dano ao tocar neles. O dano aumenta conforme o nível.
 
